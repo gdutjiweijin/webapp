@@ -1,5 +1,6 @@
 
 # build
+# test
 yarn run build
 
 # copy file to android
