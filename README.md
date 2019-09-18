@@ -1,10 +1,9 @@
-# ubi-app
+ ubi-app
 
 > A Vue.js project
 
 ## Build Setup
 ## test2
-``` bash
 # install dependencies
 yarn install
 
